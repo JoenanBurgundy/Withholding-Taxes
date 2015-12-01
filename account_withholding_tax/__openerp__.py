@@ -20,11 +20,11 @@
 ##############################################################################
 
 {
-    'name': 'Withholding Taxes',
+    'name': 'Withholding Taxes (Pajak Penghasilan)',
     'version': '1.0',
     'category': 'Accounting & Finance',
     'description': """
-Withholding Taxes in Invoice
+Withholding Taxes (Pajak Penghasilan) in Invoice 
 """,
     'author': 'Burgundy Teknologi',
     'website': 'www.burgundylabs.com',
