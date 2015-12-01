@@ -38,7 +38,6 @@ Withholding Taxes (Pajak Penghasilan) in Invoice
         "security/ir.model.access.csv",
     ],
     "images": [
-        "images/asperience.png",
-        "images/group_invoice_view.png"
+        "images/aturan-pajak.jpg"
     ],
 }
