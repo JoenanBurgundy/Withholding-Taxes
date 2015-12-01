@@ -23,6 +23,7 @@
     'name': 'Withholding Taxes (Pajak Penghasilan)',
     'version': '1.0',
     'category': 'Accounting & Finance',
+    'summary': 'Withholding Taxes (Pajak Penghasilan) in Invoices',
     'description': """
 Withholding Taxes (Pajak Penghasilan) in Invoice 
 """,
