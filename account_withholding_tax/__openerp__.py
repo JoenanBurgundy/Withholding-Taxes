@@ -21,10 +21,10 @@
 
 {
     'name': 'Withholding Taxes',
-    'version': '9.0',
+    'version': '1.0',
     'category': 'Accounting & Finance',
     'description': """
-Withholding Taxes in Invoice versi 9.0
+Withholding Taxes in Invoice
 """,
     'author': 'Burgundy Teknologi',
     'website': 'www.burgundylabs.com',
