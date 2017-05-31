@@ -28,7 +28,7 @@
 Withholding Taxes (Pajak Penghasilan) in Invoice 
 """,
     'author': 'Burgundy Teknologi',
-    'website': 'www.burgundylabs.com',
+    'website': 'www.burgundy.id',
     'license': 'AGPL-3',
     'depends': [
         'account',
