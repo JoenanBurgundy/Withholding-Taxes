@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 ##############################################################################
 #
-#    Copyright (C) {2014} {Burgundy} <{admin@burgundylabs.com}>
+#    Copyright (C) {2014} {Burgundy} <{joenannr@gmail.com}>
 #    All Rights Reserved
 #
 #    This program is free software: you can redistribute it and/or modify
@@ -27,8 +27,8 @@
     'description': """
 Withholding Taxes (Pajak Penghasilan) in Invoice 
 """,
-    'author': 'Burgundy Teknologi',
-    'website': 'burgundy.id',
+    'author': 'Burgundy Teknologi <joenannr@gmail.com>',
+    'website': 'burgundy.id:8069',
     'license': 'AGPL-3',
     'depends': [
         'account',
