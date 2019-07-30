@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 ##############################################################################
 #
-#    Copyright (C) {2014} {Burgundy} <{joenannr@gmail.com}>
+#    Copyright (C) {2014} {PT Arkana Solusi Digital} <{info@arkana.co.id}>
 #    All Rights Reserved
 #
 #    This program is free software: you can redistribute it and/or modify
@@ -27,8 +27,8 @@
     'description': """
 Withholding Taxes (Pajak Penghasilan) in Invoice 
 """,
-    'author': 'Burgundy Teknologi <joenannr@gmail.com>',
-    'website': 'burgundy.id:8069',
+    'author': 'Arkana <info@arkana.co.id>',
+    'website': 'https://arkana.co.id',
     'license': 'AGPL-3',
     'depends': [
         'account',
